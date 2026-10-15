@@ -2,6 +2,8 @@
 
 Our collection of books that introduce children and teens to cybersecurity, computing, and science.
 
+> **Note:** These are books from our own collection. A few are still missing from the list, and we'll be adding mini reviews at some point.
+
 Want to suggest a book? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contents
@@ -14,26 +16,26 @@ Want to suggest a book? See [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Cybersecurity & Computing
 
-| Title | Author(s) | Ages | ISBN-13 |
-|-------|-----------|------|---------|
-| *M is for Malware* (Cybersecurity ABC's) | Curtis Brazzell | 0–10 | 9780578519326 |
-| *B is for Blue Team* (Cybersecurity ABC's) | Curtis Brazzell | 0–10 | 9780578710853 |
-| *R is for Red Team* (Cybersecurity ABC's) | Curtis Brazzell | 0–10 | 9780578710860 |
-| *The Mighty Threat Intelligence Warrior* (Book 1) | Nicole Hoffman; illus. Charanya Kalamegam | 3–11 | 9798985436303 |
-| *The Mighty Threat Intelligence Warrior: Jasper's Second Chance* (Book 2) | Nicole Hoffman; illus. Charanya Kalamegam | 3–11 | 9798985436334 |
-| *The Mighty Threat Intelligence Warrior: The Bewitching Botmaster* (Book 3) | Nicole Hoffman; illus. Charanya Kalamegam | 3–11 | 9798985436341 |
-| *The Little Cyber Engineer* | Amber DeVilbiss | 4–8 | 9798218038557 |
-| *Goodnight Server Room* | T. D. (Tyler) Smith; pictures by Emily Krueger | 1–5 | 9780692905401 |
-| *Computer Engineering for Big Babies* | Chase Roberts (Hacky Labs) | 3+ | 9781735208749 |
-| *Simple Machines Made Simple* | Chase Roberts (Hacky Labs) | 2+ | — |
-| *Artificial Intelligence for Kids* (Tinker Toddlers) | Dr. Dhoot | 0–6 | 9781732508071 |
-| *I Can Code: AND/OR* | Vicky Fang; pictures by Jade Orlando | 0–4 | 9781728209593 |
-| *ScratchJr Coding Cards* (75-card deck) | Marina Umaschi Bers, Amanda Sullivan | 5–9 | 9781593278991 |
-| *Teach Your Kids to Code* | Bryson Payne (No Starch Press) | 10+ | 9781593276140 |
+| Title | Author(s) | ISBN-13 |
+|-------|-----------|---------|
+| *M is for Malware* (Cybersecurity ABC's) | Curtis Brazzell | 9780578519326 |
+| *B is for Blue Team* (Cybersecurity ABC's) | Curtis Brazzell | 9780578710853 |
+| *R is for Red Team* (Cybersecurity ABC's) | Curtis Brazzell | 9780578710860 |
+| *The Mighty Threat Intelligence Warrior* (Book 1) | Nicole Hoffman; illus. Charanya Kalamegam | 9798985436303 |
+| *The Mighty Threat Intelligence Warrior: Jasper's Second Chance* (Book 2) | Nicole Hoffman; illus. Charanya Kalamegam | 9798985436334 |
+| *The Mighty Threat Intelligence Warrior: The Bewitching Botmaster* (Book 3) | Nicole Hoffman; illus. Charanya Kalamegam | 9798985436341 |
+| *The Little Cyber Engineer* | Amber DeVilbiss | 9798218038557 |
+| *Goodnight Server Room* | T. D. (Tyler) Smith; pictures by Emily Krueger | 9780692905401 |
+| *Computer Engineering for Big Babies* | Chase Roberts (Hacky Labs) | 9781735208749 |
+| *Simple Machines Made Simple* | Chase Roberts (Hacky Labs) | — |
+| *Artificial Intelligence for Kids* (Tinker Toddlers) | Dr. Dhoot | 9781732508071 |
+| *I Can Code: AND/OR* | Vicky Fang; pictures by Jade Orlando | 9781728209593 |
+| *ScratchJr Coding Cards* (75-card deck) | Marina Umaschi Bers, Amanda Sullivan | 9781593278991 |
+| *Teach Your Kids to Code* | Bryson Payne (No Starch Press) | 9781593276140 |
 
 ## Baby University Series
 
-Board books from Sourcebooks' Baby University series, all for ages 0–3.
+Board books from Sourcebooks' Baby University series.
 
 | Title | Author(s) | ISBN-13 |
 |-------|-----------|---------|
@@ -53,10 +55,10 @@ Board books from Sourcebooks' Baby University series, all for ages 0–3.
 
 ## Other Reference
 
-| Title | Author(s) | Ages | ISBN-13 |
-|-------|-----------|------|---------|
-| *The CIA World Factbook 2026–2027* | Central Intelligence Agency (Skyhorse) | 12+ | 9781510786042 |
-| *The Minerals Encyclopedia* | Rupert Hochleitner (Firefly Books) | 10+ (with help) | 9780228103622 |
+| Title | Author(s) | ISBN-13 |
+|-------|-----------|---------|
+| *The CIA World Factbook 2026–2027* | Central Intelligence Agency (Skyhorse) | 9781510786042 |
+| *The Minerals Encyclopedia* | Rupert Hochleitner (Firefly Books) | 9780228103622 |
 
 ---
 
