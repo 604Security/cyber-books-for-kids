@@ -26,6 +26,7 @@ Want to suggest a book? See [CONTRIBUTING.md](CONTRIBUTING.md).
 | *The Mighty Threat Intelligence Warrior: The Bewitching Botmaster* (Book 3) | Nicole Hoffman; illus. Charanya Kalamegam | 9798985436341 |
 | *The Little Cyber Engineer* | Amber DeVilbiss | 9798218038557 |
 | *Goodnight Server Room* | T. D. (Tyler) Smith; pictures by Emily Krueger | 9780692905401 |
+| *Computer Engineering for Babies* | Chase Roberts (Hacky Labs) | — |
 | *Computer Engineering for Big Babies* | Chase Roberts (Hacky Labs) | 9781735208749 |
 | *Simple Machines Made Simple* | Chase Roberts (Hacky Labs) | — |
 | *Artificial Intelligence for Kids* (Tinker Toddlers) | Dr. Dhoot | 9781732508071 |
